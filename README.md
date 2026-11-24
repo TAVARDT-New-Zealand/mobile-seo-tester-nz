@@ -5,7 +5,7 @@
 
 Independent verification of viewport meta tags, tap responsiveness, and mobile layouts.
 
-Developed and maintained by the software architecture practice at **TAVARDT New Zealand**.
+Developed and maintained by the software architecture practice at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://enterprise.co.nz -json
 For real-time cloud mobile audits:
 
 * **Official Mobile SEO Checker**
-* **TAVARDT New Zealand Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## New Zealand Technical Inquiries
 
-For technical assistance adhering to NZ Web Accessibility Standard and Google Mobile-First Indexing, get in touch with **TAVARDT New Zealand**.
+For technical assistance adhering to NZ Web Accessibility Standard and Google Mobile-First Indexing, get in touch with **TAVARDT**.
 
 ***
 
