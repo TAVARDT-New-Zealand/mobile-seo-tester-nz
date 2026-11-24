@@ -49,3 +49,7 @@ For real-time cloud mobile audits:
 ## New Zealand Technical Inquiries
 
 For technical assistance adhering to NZ Web Accessibility Standard and Google Mobile-First Indexing, get in touch with **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
