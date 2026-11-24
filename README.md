@@ -1,14 +1,13 @@
 # Mobile SEO Auditor and Responsive Design Validator
 
 [![Mobile SEO Auditor](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/nz/mobile-seo-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-New%20Zealand-00C853.svg)](https://ag.tavardt.com/nz/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Independent verification of viewport meta tags, tap responsiveness, and mobile layouts.
 
-Developed and maintained by the software architecture practice at **[TAVARDT New Zealand](https://ag.tavardt.com/nz/)**.
+Developed and maintained by the software architecture practice at **TAVARDT New Zealand**.
 
----
+***
 
 ## Mobile SEO Verification Highlights
 
@@ -18,7 +17,7 @@ Developed and maintained by the software architecture practice at **[TAVARDT New
 * **Font Legibility Assessment**: Verifying that typography scales clearly on small viewports.
 * **Mobile SEO Health Score**: Quantitative 0 to 100 score highlighting technical issues.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python mobile_seo_tester.py https://enterprise.co.nz
 Run in JSON mode for CI/CD pipeline automation:
 
 ```bash
-python mobile_seo_tester.py https://enterprise.co.nz --json
+python mobile_seo_tester.py https://enterprise.co.nz -json
 ```
 
----
+***
 
 ## Official Web Testing Portal
 
 For real-time cloud mobile audits:
 
-* **[Official Mobile SEO Checker](https://tools.tavardt.com/nz/mobile-seo-checker/)**
-* **[TAVARDT New Zealand Portal](https://ag.tavardt.com/nz/)**
+* **Official Mobile SEO Checker**
+* **TAVARDT New Zealand Portal**
 
----
+***
 
 ## New Zealand Technical Inquiries
 
-For technical assistance adhering to NZ Web Accessibility Standard and Google Mobile-First Indexing, get in touch with **[TAVARDT New Zealand](https://ag.tavardt.com/nz/contact/)**.
+For technical assistance adhering to NZ Web Accessibility Standard and Google Mobile-First Indexing, get in touch with **TAVARDT New Zealand**.
