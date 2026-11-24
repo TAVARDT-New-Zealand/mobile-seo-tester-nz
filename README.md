@@ -52,4 +52,12 @@ For technical assistance adhering to NZ Web Accessibility Standard and Google Mo
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
