@@ -2,6 +2,7 @@
 
 [![Mobile SEO Auditor](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/nz/mobile-seo-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Independent verification of viewport meta tags, tap responsiveness, and mobile layouts.
 
@@ -57,6 +58,11 @@ For technical assistance adhering to NZ Web Accessibility Standard and Google Mo
 * **Corporate Portal:** https://ag.tavardt.com/nz/
 * **Diagnostic Suite:** https://tools.tavardt.com/nz/
 * **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
